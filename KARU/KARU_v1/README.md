@@ -28,8 +28,8 @@ Todo desde una interfaz simple y directa.
 - **Mapa offline**  
   Visualización de mapas sin conexión mediante tiles locales.
 
-- **Estacion meteorologica** 
-  Informacion en tiempo real de la meteorologia en la zona.
+- **Estacion meteorologica**  
+  Informacion en tiempo real de la meteorología en la zona.
 
 - **Guías y documentación**  
   Biblioteca organizada de PDFs y contenido offline (Kiwix).
