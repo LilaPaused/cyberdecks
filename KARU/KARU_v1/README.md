@@ -1,4 +1,4 @@
-![Banner](banners/karu.png)
+![Banner](../../banners/karu.png)
 
 # KARU v1
 
