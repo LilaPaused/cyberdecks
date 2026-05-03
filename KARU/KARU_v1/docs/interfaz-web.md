@@ -7,7 +7,7 @@ La interfaz está pensada para ejecutarse desde un servidor local en la propia R
 Esto es necesario porque algunos módulos dependen de funciones del navegador que requieren servir los archivos mediante HTTP.
 
 
-![Banner](imgs/UI.png)
+![Banner](../imgs/UI.png)
 
 
 ---
